@@ -101,7 +101,7 @@ Before using this plugin, ensure you have:
 ### From GitHub
 
 ```
-/plugin install https://github.com/YOUR_USERNAME/team-workflow-plugin
+/plugin install https://github.com/jeremyodell/team-workflow-plugin
 ```
 
 ### From Local Directory
